@@ -1,2 +1,2 @@
 # my-first-project
-my first program in git 
+my first program in git .
